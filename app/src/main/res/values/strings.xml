@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SampleNotification</string>
+    <string-array name="frequency">
+        <item>Each hour</item>
+        <item>Each 2 hours</item>
+        <item>Each 3 hours</item>
+        <item>Each 4 hours</item>
+    </string-array>
+
+    <string-array name="frequencyValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
